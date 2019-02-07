@@ -33,13 +33,21 @@ https://www.britannica.com/science/statistics/Random-variables-and-probability-d
 4. https://www.quora.com/Most-ML-models-assume-an-underlying-data-distribution-for-them-to-function-well-Where-can-I-learn-about-the-probability-distributions-that-each-ML-model-assumes
 ## Descriptive Statistics	
 ### Statistics Introduction	
+http://www.analyzemath.com/statistics/introduction_statistics.html
 ### Population vs Sample	
+https://stattrek.com/sampling/populations-and-samples.aspx
 ### Descriptive Statistics	
+https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291
 ### Types of Variable	
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/types-of-variables/
 ### Central Tendency	
+http://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/
 ### Spread or Variance	
+http://www.abs.gov.au/websitedbs/a3121120.nsf/home/statistical+language+-+measures+of+spread
 ### Univariate Analysis	
+https://www.statisticshowto.datasciencecentral.com/univariate/
 ### Bi-variate Distribution	
+https://www.saedsayad.com/bivariate_analysis.htm
 ### Multivariate Analysis	
 ### Function Models	
 ### Significance in Data Science	
@@ -48,17 +56,26 @@ https://www.britannica.com/science/statistics/Random-variables-and-probability-d
 2. https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/e40867c6134a4731a492e1ab9c5027b3/
 ## Inferential Statistics	
 ### Inferential Statistics	
+http://onlinestatbook.com/2/introduction/inferential.html
 ### Population & Sample	
+https://stattrek.com/sampling/populations-and-samples.aspx
 ### Sampling Distributions	
+http://onlinestatbook.com/2/sampling_distributions/intro_samp_dist.html
 ### Central Limit Theorem	
+https://towardsdatascience.com/understanding-the-central-limit-theorem-642473c63ad8
 ### Confidence Intervals	
+https://www.mathsisfun.com/data/confidence-interval.html
 ### Hypothesis Testing	
+https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/
 ### Hypothesis Testing (One and Two Group Means)	
 ### Two-Sample T Tests	
+https://www.itl.nist.gov/div898/handbook/eda/section3/eda353.htm
 ### Hypothesis Testing (Categorical Data)	
 ### Hypothesis Testing (More Than Two Group Means)	
 ### One-Way ANOVA	
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/hypothesis-testing/anova/
 ### Two-Way ANOVA	
+https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553
 ### Quantitative Data (Correlation & Regression)	
 ### Significance in Data Science	
 ### References	
@@ -101,6 +118,3 @@ https://www.quora.com/What-is-the-best-way-to-explain-the-bias-variance-trade-of
 ### Bias-Variance Trade-Off	
 1. https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/
 2. https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
-
-
-
